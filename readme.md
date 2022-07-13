@@ -1,10 +1,11 @@
 <div align="center">
-    <h1>Tech Used</h1>
+    <h1>Tech Stack Used</h1>
 </div>
 <ul>
     <li>reactJs</li>
-    <li>Framer Motion</li>
-    <li>Emotion</li>
-    <li>Chakra ui</li>
+    <li>Tailwind css</li>
     <li>React Location</li>
 </ul>
+
+<h1>Feature worth to develop :</h1>
+<a href="https://youtu.be/pfaSUYaSgRo">Dark Mode (At the end video)</a> 

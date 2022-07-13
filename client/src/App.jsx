@@ -1,7 +1,9 @@
+import Sidebar from "./components/Sidebar"
+
 function App() {
   return (
-    <div>
-      <h1>Hello vite</h1>
+    <div className="flex">
+        <Sidebar />
     </div>
   )
 }
