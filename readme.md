@@ -4,7 +4,6 @@
 <ul>
     <li>reactJs</li>
     <li>Tailwind css</li>
-    <li>React Location</li>
 </ul>
 
 <h1>Feature worth to develop :</h1>

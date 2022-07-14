@@ -1,14 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 /* create a custom css using tailwind utilities */
 
 @layer components {
     .sidebar-icon {
         @apply relative flex items-center justify-center h-12 w-12 mt-2 mb-2 mx-auto
-               bg-gray-700 text-green-500 hover:bg-green-600 hover:text-white
-               rounded-3xl hover:rounded-xl transition-all duration-300 ease-linear cursor-pointer;
+               bg-gray-700 text-green-500 hover-avail:hover:bg-green-600 hover-avail:hover:text-white
+               rounded-3xl hover-avail:hover:rounded-xl transition-all duration-300 ease-linear cursor-pointer;
     }
     
     .sidebar-tooltip {

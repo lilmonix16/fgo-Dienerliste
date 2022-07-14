@@ -8,6 +8,9 @@ module.exports = {
   // configuration custom theme
   theme: {
     extend: {
+      screens: {
+        'hover-avail': {'raw': '(hover: hover)'}, // works only if device have hover (not touch device) to use it: hover-avail:hover:<some effect hover>
+      },
       colors: {
         primary: '#202225',
         secondary: '#5865f2',
