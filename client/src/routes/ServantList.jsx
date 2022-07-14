@@ -1,7 +1,7 @@
 
 const ServantList = () => {
     return (
-        <h1>ServantList Page</h1>
+        <h1 className="ml-16">ServantList Page</h1>
     )
 }
 
